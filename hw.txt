@@ -88,6 +88,14 @@ Python:
 1) https://stepik.org/course/172781/syllabus 
 ПРАКТИКА В NUMPY: https://www.kaggle.com/code/sokolovaleks/100-numpy-exercises-rus-version
 
+SQL:
+1) https://karpov.courses/simulator-sql
+2) https://sql-academy.org/ru/trainer/tasks/1 (ТОПОВАЯ ШТУКА)
+3) https://stepik.org/course/63054/syllabus
+4) https://stepik.org/course/3203/syllabus
+5) https://www.kaggle.com/learn/intro-to-sql
+6) https://www.kaggle.com/learn/advanced-sql
+
 Аналитика данных на pandas:
 1) https://stepik.org/course/74457/syllabus
 2) https://stepik.org/course/3356/syllabus начать с секции (6. Неделя 2 - Векторы, Матрицы)
@@ -101,14 +109,6 @@ Data Visual:
 2) https://www.kaggle.com/code/prashant111/matplotlib-tutorial-for-beginners
 3) https://www.kaggle.com/code/kanncaa1/seaborn-tutorial-for-beginners
 4) https://www.kaggle.com/code/kanncaa1/plotly-tutorial-for-beginners
-
-SQL:
-1) https://karpov.courses/simulator-sql
-2) https://sql-academy.org/ru/trainer/tasks/1 (ТОПОВАЯ ШТУКА)
-3) https://stepik.org/course/63054/syllabus
-4) https://stepik.org/course/3203/syllabus
-5) https://www.kaggle.com/learn/intro-to-sql
-6) https://www.kaggle.com/learn/advanced-sql
 
 Data Cleaning:
 1) https://www.kaggle.com/learn/data-cleaning
