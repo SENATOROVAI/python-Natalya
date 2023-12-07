@@ -74,7 +74,7 @@ Algorithms:
 2) (по возможности сделать хотя бы до 100+ страницы) cкачать и делать минимум 1 упражнение/пример из пройденной темы, https://t.me/SenatorovBootcamp/766/8001, создать файл в папке algorithms/skiena.ipynb и начать выполнять задачи начиная с 52 страницы. Фото тетради вставлять в ячейки ноутбука, сами фотки хранить в папке photo размещённой в корне
 
 Computer Science:
-1) компьютер сайнс пройти курс https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124 
+1) компьютер сайнс пройти курс https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124 (done) 
 2) посмотреть видео https://www.youtube.com/watch?v=Wh22_O8jXVQ&list=PLIJLLSrXDPojDGKW0WZ7sU0eO3nyn0oDc 
 
 GIT:
