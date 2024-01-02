@@ -134,4 +134,4 @@ ML (опционально):
 1/1/24
 1) выполнить\Math\calculus\hw
 результат сохранить в limit1.pdf
-2) 1 задача в день https://leetcode.com/studyplan/30-days-of-pandas/
+2) 1 задача в день https://leetcode.com/studyplan/introduction-to-pandas/ когда закончишь начни https://leetcode.com/studyplan/30-days-of-pandas/
