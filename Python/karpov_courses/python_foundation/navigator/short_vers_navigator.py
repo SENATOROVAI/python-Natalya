@@ -7,13 +7,17 @@ import random
 
 import pandas as pd
 
-url='https://drive.google.com/uc?id=1-crPzL6qMinByPzsrEHhGn1EJ1MfD3GX'
-df = pd.read_csv(url, names=list(range(0, 100, 1)))
-city_map_list = df.values.tolist()
+# При внесении задачи на платформу Карпова нижние три строчки нужно закоментировать
+# url='https://drive.google.com/uc?id=1-crPzL6qMinByPzsrEHhGn1EJ1MfD3GX'
+# df = pd.read_csv(url, names=list(range(0, 100, 1)))
+# city_map_list = df.values.tolist()
 
 city_map_list = np.array(city_map_list)
 
+# Обрезанная версия - возвращается на базу после каждого заказа
 
+courier_location = (17, 99)
+orders_location = [(42, 76), (27, 80), (43, 52), (26, 75)]
 
 
 
@@ -117,3 +121,7 @@ def build_root(optimal_order, courier_location, courier_value_map, orders_locati
 optimal_order = find_optimal_order(courier_value_map,orders_location,orders_value_map)            
             
 route = build_root(optimal_order, courier_location,courier_value_map,orders_location)
+
+# Не все заказы были доставлены
+
+# Недоставленные заказы: [(66, 32), (90, 10), (79, 77), (9, 5), (89, 60), (65, 38)]
