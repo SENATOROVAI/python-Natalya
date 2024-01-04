@@ -7,7 +7,8 @@ import random
 
 import pandas as pd
 
-# При внесении задачи на платформу Карпова нижние три строчки нужно закоментировать
+# При внесении задачи на платформу Карпова нижние три строчки нужно закомментировать
+
 # url='https://drive.google.com/uc?id=1-crPzL6qMinByPzsrEHhGn1EJ1MfD3GX'
 # df = pd.read_csv(url, names=list(range(0, 100, 1)))
 # city_map_list = df.values.tolist()
